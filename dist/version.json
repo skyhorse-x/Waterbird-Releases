@@ -1,0 +1,35 @@
+{
+  "version": "1.0.8",
+  "date": "2026-04-27",
+  "platforms": {
+    "win-x64": {
+      "url": "https://cdn.jsdelivr.net/gh/skyhorse-x/ZebraShell-Releases@1.0.8/win-x64/ZebraShell.exe",
+      "notes": "Windows x64"
+    },
+    "win-arm64": {
+      "url": "https://cdn.jsdelivr.net/gh/skyhorse-x/ZebraShell-Releases@1.0.8/win-arm64/ZebraShell.exe",
+      "notes": "Windows ARM64"
+    },
+    "mac-x64": {
+      "url": "https://cdn.jsdelivr.net/gh/skyhorse-x/ZebraShell-Releases@1.0.8/mac-x64/ZebraShell",
+      "notes": "macOS Intel"
+    },
+    "mac-arm64": {
+      "url": "https://cdn.jsdelivr.net/gh/skyhorse-x/ZebraShell-Releases@1.0.8/mac-arm64/ZebraShell",
+      "notes": "macOS Apple Silicon"
+    },
+    "linux-x64": {
+      "url": "https://cdn.jsdelivr.net/gh/skyhorse-x/ZebraShell-Releases@1.0.8/linux-x64/ZebraShell",
+      "notes": "Linux x64"
+    },
+    "linux-arm64": {
+      "url": "https://cdn.jsdelivr.net/gh/skyhorse-x/ZebraShell-Releases@1.0.8/linux-arm64/ZebraShell",
+      "notes": "Linux ARM64"
+    },
+    "linux-arm": {
+      "url": "https://cdn.jsdelivr.net/gh/skyhorse-x/ZebraShell-Releases@1.0.8/linux-arm/ZebraShell",
+      "notes": "Linux ARM"
+    }
+  },
+  "force": false
+}
