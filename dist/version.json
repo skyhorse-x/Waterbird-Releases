@@ -3,31 +3,31 @@
   "date": "2026-05-12",
   "platforms": {
     "win-x64": {
-      "url": "https://cdn.jsdelivr.net/gh/skyhorse-x/ZebraShell-Releases@1.0.14/win-x64/ZebraShell.exe",
+      "url": "https://cdn.jsdelivr.net/gh/skyhorse-x/Waterbird-Releases@1.0.14/win-x64/ZebraShell.exe",
       "notes": "Windows x64"
     },
     "win-arm64": {
-      "url": "https://cdn.jsdelivr.net/gh/skyhorse-x/ZebraShell-Releases@1.0.14/win-arm64/ZebraShell.exe",
+      "url": "https://cdn.jsdelivr.net/gh/skyhorse-x/Waterbird-Releases@1.0.14/win-arm64/ZebraShell.exe",
       "notes": "Windows ARM64"
     },
     "mac-x64": {
-      "url": "https://cdn.jsdelivr.net/gh/skyhorse-x/ZebraShell-Releases@1.0.14/mac-x64/ZebraShell",
+      "url": "https://cdn.jsdelivr.net/gh/skyhorse-x/Waterbird-Releases@1.0.14/mac-x64/ZebraShell",
       "notes": "macOS Intel"
     },
     "mac-arm64": {
-      "url": "https://cdn.jsdelivr.net/gh/skyhorse-x/ZebraShell-Releases@1.0.14/mac-arm64/ZebraShell",
+      "url": "https://cdn.jsdelivr.net/gh/skyhorse-x/Waterbird-Releases@1.0.14/mac-arm64/ZebraShell",
       "notes": "macOS Apple Silicon"
     },
     "linux-x64": {
-      "url": "https://cdn.jsdelivr.net/gh/skyhorse-x/ZebraShell-Releases@1.0.14/linux-x64/ZebraShell",
+      "url": "https://cdn.jsdelivr.net/gh/skyhorse-x/Waterbird-Releases@1.0.14/linux-x64/ZebraShell",
       "notes": "Linux x64"
     },
     "linux-arm64": {
-      "url": "https://cdn.jsdelivr.net/gh/skyhorse-x/ZebraShell-Releases@1.0.14/linux-arm64/ZebraShell",
+      "url": "https://cdn.jsdelivr.net/gh/skyhorse-x/Waterbird-Releases@1.0.14/linux-arm64/ZebraShell",
       "notes": "Linux ARM64"
     },
     "linux-arm": {
-      "url": "https://cdn.jsdelivr.net/gh/skyhorse-x/ZebraShell-Releases@1.0.14/linux-arm/ZebraShell",
+      "url": "https://cdn.jsdelivr.net/gh/skyhorse-x/Waterbird-Releases@1.0.14/linux-arm/ZebraShell",
       "notes": "Linux ARM"
     }
   },
